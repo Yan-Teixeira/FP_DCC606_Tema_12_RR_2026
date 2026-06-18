@@ -5,7 +5,9 @@
 
 **Autores:** Yan Teixeira e Arthur Ramos  
 **Projeto:** Análise de Algoritmos (DCC606) - Tema 12
-**Orientador:**  Herbert Oliveira 
+
+**Orientador:** Herbert Oliveira 
+
 
 ---
 
